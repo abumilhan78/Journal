@@ -1,0 +1,12 @@
+1.Pengenalan Algoritma
+-Notasi Algoritma
+2.Bahasa Natural
+-flow chart
+3. Pseudocode
+-tipe data dan variable
+4.instalasi java & pengenalan java
+5.operator aritmatika
+6.TKJ
+7.Pemilihan
+8.Pengulangan
+9.ulangan
